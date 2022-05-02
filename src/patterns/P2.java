@@ -10,6 +10,8 @@ public class P2 {
 		{
 			System.out.print("* ");
 		}
+		
+		System.out.println("pattern programms");
 	}
 
 }
